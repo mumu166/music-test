@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+httpx
+demucs>=4.0.1
+python-multipart
